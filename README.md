@@ -321,6 +321,7 @@ nic specjalnego. Czasami trafi się spoko prowadzący który coś ciekawie opowi
 ale najczęściej trzeba to po prostu odbębnić.
 
 ##### Czy jest Meyer? (Q: Studenci AiR, A: Marcin Ławniczak, zawsze)
+[Bezpośredni link](#czy-jest-meyer-q-studenci-air-a-marcin-ławniczak-zawsze)
 
 ![godziny](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/WI/meyer.jpg)
 
