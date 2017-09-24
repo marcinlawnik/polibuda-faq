@@ -20,7 +20,7 @@ W budowie
 
 ### Pytania specyficzne dla wydziałów
 
-#### Wydział Informatyki
+#### Wydział Informatyki (WI)
 ##### Gdzie znajdę plan zajęć? (Marcin Ławniczak, 24.09.2017)
 
 Na stronie wydziału, o
@@ -28,7 +28,7 @@ Na stronie wydziału, o
 
 ##### Co oznacza na planie jak dany przedmiot jest przekreślony? (Marcin Ławniczak, 24.09.2017)
 
-![Dwa przedmioty w jednej komórce](https://raw.githubusercontent.com/marcinlawnik/polibuda-faq/master/images/WI/przekreslony.png)
+![Dwa przedmioty w jednej komórce](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/WI/przekreslony.PNG)
 
 Jeżeli komórka z daną godziną jest przekreślona na skos, jak na powyższym
 zdjęciu, znaczy to że dany przedmiot odbywa się albo w tygodnie parzyste, albo
