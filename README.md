@@ -8,7 +8,7 @@ Politechniki Poznańskiej.
 1. [Rozpoczęcie studiów](#rozpoczęcie-studiów)
 2. [Domy studenckie](#domy-studenckie)
 3. [Pytania specyficzne dla wydziałów](#pytania-specyficzne-dla-wydziałów)
-- [Wydział Informatyki](#wydział-informatyki-(wi)) (WI)
+- [Wydział Informatyki (WI)](#wydział-informatyki-wi)
 
 ### Rozpoczęcie studiów
 
