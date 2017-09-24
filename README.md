@@ -42,7 +42,7 @@ W budowie
 Na stronie wydziału, o
 [tu](http://fc.put.poznan.pl/informacje-dla-studentow/tw-j-rozk-ad-zaj,131.html).
 
-##### Co oznacza na planie jak dany przedmiot jest przekreślony? (Q: Tomek Ostrzeniewski, A: Marcin Ławniczak, 24.09.2017)
+##### Co oznacza na planie jak dany przedmiot jest przekreślony na skos? (Q: Tomek Ostrzeniewski, A: Marcin Ławniczak, 24.09.2017)
 
 ![Dwa przedmioty w jednej komórce](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/WI/przekreslony.PNG)
 
@@ -51,6 +51,27 @@ zdjęciu, znaczy to że dany przedmiot odbywa się albo w tygodnie parzyste, alb
 nieparzyste zgodnie z wykazem tygodni. Wykaz tygodni znajduje się na stronie
 z planem, na rok 2017/2018
 [tutaj](http://fc.put.poznan.pl/sites/default/files/WI_tygodnie%202017_18.pdf).
+
+##### Co oznacza poziome przekreślenie? (Q: Marcin Ryba Pałasz, A: Marcin Ławniczak, 19.09.2017)
+
+![Przekreślenie poziome w planie](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/WI/przekreslony_poziomo.jpg)
+
+Przekreślenie poziome oznacza, ze obydwa przedmioty odbywają się jednocześnie.
+PO to przedmiot obieralny - chodzisz albo na to albo na to w zależności
+co wybrałeś/aś i na co zostałeś/aś przydzielona/y. Semestr wcześniej, albo na
+spotkaniu organizacyjnym odbywa się ankieta.
+
+##### Co oznacza przedmiot wpisany w połowie (pionowe przekreślenie)? (Q: Jakub Górny, A: Marcin Ławniczak, 19.09.2017)
+
+![Przekreślenie pionowe w planie](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/WI/przekreslenie_pion.jpg)
+
+Jest to podpodział grupy dziekańskiej, ponieważ laboratoria na WI mieszczą
+maksymalnie 16 osób na raz. Część grupy ma zajęcia w tym terminie, część w innym.
+To, jak się podzielicie jest większości prowadzących obojętne, bylebyście się
+tego podziału trzymali (i najlepiej zrobili prowadzącemu listę).
+Nic się nie stanie jak raz czy dwa przyjdziecie na zajęcia do innej grupy, ale
+nie róbcie sobie z tego nawyku, no i najpierw zapytajcie prowadzącego czy was
+wpuści na zajęcia - może nie być miejsca lub jest przerabiany inny materiał.
 
 ##### Co oznaczają poszczególne literki i cyferki w podsumowaniu planu? (Q: Arkadiusz Janowski, A: Marcin Ławniczak, 19.09.2017)
 
