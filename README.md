@@ -7,7 +7,9 @@ Politechniki Poznańskiej.
 
 1. [Rozpoczęcie studiów](#rozpoczęcie-studiów)
 2. [Domy studenckie](#domy-studenckie) (akademiki)
-3. [Pytania specyficzne dla wydziałów](#pytania-specyficzne-dla-wydziałów)
+3. [Zmiana kierunku](#zmiana-kierunku)
+4. [WF, sport i pokrewne](#wf-sport-i-pokrewne)
+5. [Pytania specyficzne dla wydziałów](#pytania-specyficzne-dla-wydziałów)
 - [Wydział Informatyki (WI)](#wydział-informatyki-wi)
 
 ### Rozpoczęcie studiów
@@ -22,6 +24,14 @@ Ja nie byłem na swoim pierwszym roku, bo, szczerze mówiąc, dopadł mnie kac
 gigant i żałuję. Nadrobiłem w roku kolejnym.
 
 TL;DR: Tak, można olać.
+
+##### Na dzisiaj (spotkanie organizacyjne) obowiązuje strój galowy? Na immatrykulację w środę tak, ale na dzisiaj też? (Q: Julia Zieleniewska, A: Filip Śnieguła, Agnieszka Wałęsa, 24.09.2017)
+
+Filip: Generalnie zawsze lepiej ubrać się za dobrze niż w drugą stronę.       
+Ale nie, nie obowiązuje.
+       
+Agnieszka: Na spotkaniach macie ślubowanie, wiec warto ubrać się chociaż
+póloficjalnie.
 
 ##### Gdzie zaparkować samochód? (Q, A: Marcin Ławniczak, 24.09.2017)
 
@@ -93,6 +103,31 @@ wystarczy poprosić ochroniarza o wpuszczenie. Jeżeli chcesz trzymać samochód
 kampusie, możesz to zrobic na parkingu studenckim pod WTCh. Innej możliwości nie
 ma na zaparkowanie samochodu.
 
+### Zmiana kierunku
+
+##### Jak wygląda przeniesienie się na inny wydział i czy jest to w ogóle możliwe po 1 semestrze? (Q: Magdalena Warmbier, A: Bartosz Mila)
+
+Musisz pójść do dziekanatu wydziału na który chcesz się przenieść,
+tam ich o wszystko zapytaj (mogą być jakieś różnice na różnych wydziałach).
+Zapytaj o przepisanie przedmiotów (mi gość powiedział wprost, co z mojego
+kierunku mogą uznać, a co będę musiał odrobić - np. angielski ich wcale nie
+obchodzi) - tu chyba trochę zależy też od osoby, która się tym zajmuje np.
+"to się ewentualnie nagnie" itp.
+
+Jeszcze jedno: oceny! To jest chyba jedyne kryterium, jakie biorą pod uwagę
+(poza tym podobno czasem trzeba poganiać niektórych wykładowców, żeby szybciej oceny wpisali)
+Warto też wszystko zdać w pierwszym terminie.
+
+### WF, sport i pokrewne
+
+##### Jak wyglądają zapisy na wf? (Q: Klaudia Kaczor, A: Marcin Ławniczak, 24.09.2017)
+
+Zazwyczaj na pierwszych zajęciach z WF jest spotkanie organizacyjne, na których
+przedstawiane są dostępne sporty i przeprowadzane zapisy.
+
+Ankieta w 2016 zawierała następujące pytania:
+Imię, nazwisko, numer albumu, rocznik, kierunek, wydział,
+kiedy i gdzie masz zajęcia przed i po wfie i 3 preferowane sporty w kolejności.
 
 
 ### Pytania specyficzne dla wydziałów
