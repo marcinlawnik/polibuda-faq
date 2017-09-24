@@ -70,9 +70,11 @@ ale tylko jesli tego chcesz. :stuck_out_tongue_winking_eye:
 Można też sobie spokojnie żyć.
 Chyba we wszystkich akademikach klimat jest genialny, nie zamieniłbym tego na żadne mieszkanie ;)
 
+```
 PS (od Marcina) Ja za to znam sporadyczne przypadki, gdzie trafi się na złych
 współlokatorów i chce się jak najszybciej zwiać z DS. Zawsze można poprosić o
 zamianę.
+```
 
 ##### Czy ktoś z Was mógłby mi przybliżyć, jak żyje się w DS nr 1? (Q: Izabela Janiak, A: Hubert Garus, 20.09.2017)
 
