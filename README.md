@@ -15,7 +15,14 @@ Politechniki Poznańskiej.
 8. [Pytania specyficzne dla wydziałów](#pytania-specyficzne-dla-wydziałów)
 - [Wydział Informatyki (WI)](#wydział-informatyki-wi)
 
+ a. [Autorzy i kontakt](#autorzy-i-kontakt)
+ 
+ b. [Licencja](#licencja)
+ 
+ c. [Inne](#inne)
+
 ### Rozpoczęcie studiów
+[Powrót do spisu treści](#spis-treści)
 
 ##### Kursy uzupełniające z Matematyki i Fizyki - warto czy nie? (Q, A: Marcin Ławniczak, 24.09.2017)
 
@@ -99,6 +106,8 @@ lub w trakcie dyżurów. Postarają się pomóc, albo podpowiedzą do kogo się 
 
 
 ### Domy studenckie
+[Powrót do spisu treści](#spis-treści)
+
 
 ##### Gdzie znajdę informacje że dostałam się lub nie dostałam do akademika? (Q: Dominika Wrycz Rekowska, A: Marcin Ławniczak, 24.09.2017)
 
@@ -148,6 +157,8 @@ kampusie, możesz to zrobic na parkingu studenckim pod WTCh. Innej możliwości 
 ma na zaparkowanie samochodu.
 
 ### Zmiana kierunku
+[Powrót do spisu treści](#spis-treści)
+
 
 ##### Jak wygląda przeniesienie się na inny wydział i czy jest to w ogóle możliwe po 1 semestrze? (Q: Magdalena Warmbier, A: Bartosz Mila)
 
@@ -163,6 +174,8 @@ Jeszcze jedno: oceny! To jest chyba jedyne kryterium, jakie biorą pod uwagę
 Warto też wszystko zdać w pierwszym terminie.
 
 ### WF, sport i pokrewne
+[Powrót do spisu treści](#spis-treści)
+
 
 ##### Jak wyglądają zapisy na wf? (Q: Klaudia Kaczor, A: Marcin Ławniczak, 24.09.2017)
 
@@ -174,6 +187,7 @@ Imię, nazwisko, numer albumu, rocznik, kierunek, wydział,
 kiedy i gdzie masz zajęcia przed i po wfie i 3 preferowane sporty w kolejności.
 
 ### Poprawki i waruny
+[Powrót do spisu treści](#spis-treści)
 
 ##### Czy jak nie zda się przedmiotu to poprawka jest płatna? (Q: Szymon Wojtkiewicz, A: Kamila Ziemba, 24.09.2017)
 
@@ -186,7 +200,8 @@ umowie o studia.
 
 Tak, tylko musisz mieć zaliczony w całości pierwszy semestr.
 
-###Koła naukowe i organizacje studenckie
+### Koła naukowe i organizacje studenckie
+[Powrót do spisu treści](#spis-treści)
 
 ##### Gdzie znajdę informacje o kołach naukowych? (Q, A: Marcin Ławniczak, 24.09.2017)
 
@@ -203,6 +218,7 @@ Trzeba się ograniczyć.
 
 
 ### Erasmus, inne wyjazdy
+[Powrót do spisu treści](#spis-treści)
 
 ##### Czy warto  pod względem nauki języka oraz doświadczenia związanego z programowaniem? (Q: Jakob Wolitzki, A: Marcin Ławniczak, 24.09.2017)
 
@@ -225,8 +241,10 @@ na skrzynkę uczelnianą o tym, kiedy są spotkania informacyjne, oprócz tego s
 porozwieszane plakaty i informacje na ekranach w CW. Także raczej nie przegapisz.
 
 ### Pytania specyficzne dla wydziałów
+[Powrót do spisu treści](#spis-treści)
 
 #### Wydział Informatyki (WI)
+[Powrót do spisu treści](#spis-treści)
 ##### Gdzie znajdę plan zajęć? (Q, A: Marcin Ławniczak, 24.09.2017)
 
 Na stronie wydziału, o
@@ -297,11 +315,13 @@ nic specjalnego. Czasami trafi się spoko prowadzący który coś ciekawie opowi
 ale najczęściej trzeba to po prostu odbębnić.
 
 ### Autorzy i kontakt
+[Powrót do spisu treści](#spis-treści)
 
 Opiekunem projektu i głównym redaktorem jest Marcin Ławniczak. Jeżeli masz
 pytania lub sugestie, skontaktuj się przez maila lub Facebooka.
 
 ### Licencja
+[Powrót do spisu treści](#spis-treści)
 
 Ten projekt udostępniany jest na licencji
 [MIT](https://github.com/marcinlawnik/polibuda-faq/blob/master/LICENSE).
@@ -312,4 +332,6 @@ pociągać do jakiejkolwiek odpowiedzialności (tzn. nie gwarantujemy poprawnoś
 odpowiedzi, ani niczego innego).
 
 ### Inne
+[Powrót do spisu treści](#spis-treści)
+
 Użyte emoji: [tu](https://gist.github.com/rxaviers/7360908).
