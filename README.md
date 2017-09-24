@@ -90,6 +90,11 @@ Można mieć PEKĘ (Poznańska Elektroniczna Karta Aglomeracyjna) na legitymacji
 studenckiej. Wszelkie informacje na ten temat, a także biletów znajdziesz na
 [www.peka.poznan.pl](https://www.peka.poznan.pl).
 
+##### Czy jest możliwość zmiany grupy dziekańskiej? (Q, A: Marcin Ławniczak, 24.09.2017)
+
+Jeżeli Dziekanat wyrazi zgodę oraz jak będą miejsca w innych grupach.
+Problem zawsze jest na zajęciach laboratoryjnych z ograniczoną liczbą miejsc.
+Najprościej jednak znaleźć kogoś kto jest z tamtej grupy i woli być w Twojej.
 
 ##### Jak wyglądają dopuszczalne nieobecności? (Q: Krystian Birecki, A: Marcin Ławniczak, 24.09.2017)
 
