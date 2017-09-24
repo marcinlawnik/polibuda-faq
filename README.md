@@ -76,6 +76,10 @@ współlokatorów i chce się jak najszybciej zwiać z DS. Zawsze można poprosi
 zamianę.
 ```
 
+##### Czy jak na deklaracji wpiszę preferowany numer DS, a w nim nie będzie już miejsc to jest szansa ze dostanę się do innego? (Q: Daria Staszewska, A: Marcin Ławniczak, 24.09.2017)
+
+Tak, zostanie Ci przydzielone miejsce w innym DS.
+
 ##### Czy ktoś z Was mógłby mi przybliżyć, jak żyje się w DS nr 1? (Q: Izabela Janiak, A: Hubert Garus, 20.09.2017)
 
 Jeżeli chodzi o DS1 to jest to akademik, w którym mieszkają zazwyczaj studenci
