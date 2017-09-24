@@ -25,6 +25,7 @@ Politechniki Poznańskiej.
 [Powrót do spisu treści](#spis-treści)
 
 ##### Kursy uzupełniające z Matematyki i Fizyki - warto czy nie? (Q, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#kursy-uzupełniające-z-matematyki-i-fizyki---warto-czy-nie-q-a-marcin-ławniczak-24092017)
 
 Marta Pogodska (WI): Byłam na tym kursie. I to na rozszerzonym. Po mat-fizie w
 liceum niczego się tam nie nauczyłam. Podobno zależy też, na którego prowadzącego
@@ -39,6 +40,7 @@ Generalnie o matematykę na studiach sie nie bójcie, tylko wygooglujcie sobie c
 
 
 ##### Jak być na bieżąco z tym co dzieje się na Politechnice? (Q, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#jak-być-na-bieżąco-z-tym-co-dzieje-się-na-politechnice-q-a-marcin-ławniczak-24092017)
 
 Eventy - zawsze warto się przejść i uczestniczyć.
 Ja np. w zeszłym roku akademickim byłem na pierwszym w życiu hackathonie i było
@@ -46,9 +48,10 @@ Ja np. w zeszłym roku akademickim byłem na pierwszym w życiu hackathonie i by
 [SSPP](https://www.facebook.com/SamorzadStudentowPolitechnikiPoznanskiej), 
 [RKN](https://www.facebook.com/RKNPP/), Wydziałów i Kół, które Cię interesują.
 
-DOdatkowo warto obserwować plakaty na Wydziałach i informacje na ekranach w CW i BM.
+Dodatkowo warto obserwować plakaty na Wydziałach i informacje na ekranach w CW i BM.
 
 ##### A te inauguracje roku można olać czy tak niezbyt? (Q: Monika Mąka, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#a-te-inauguracje-roku-można-olać-czy-tak-niezbyt-q-monika-mąka-a-marcin-ławniczak-24092017)
 
 Inauguracja nie jest obowiązkowa, ale przynajmniej raz warto pójść.
 Jak nie pójdziesz na pierwszym roku, to kiedy? Rzadko jest okazja spotkać
@@ -60,6 +63,7 @@ gigant i żałuję. Nadrobiłem w roku kolejnym.
 TL;DR: Tak, można olać.
 
 ##### Na spotkanie organizacyjne obowiązuje strój galowy? Na immatrykulację tak, ale na dzisiaj też? (Q: Julia Zieleniewska, A: Filip Śnieguła, Agnieszka Wałęsa, 24.09.2017)
+[Bezpośredni link](#na-spotkanie-organizacyjne-obowiązuje-strój-galowy-na-immatrykulację-tak-ale-na-dzisiaj-też-q-julia-zieleniewska-a-filip-śnieguła-agnieszka-wałęsa-24092017)
 
 Filip: Generalnie zawsze lepiej ubrać się za dobrze niż w drugą stronę.       
 Ale nie, nie obowiązuje.
@@ -68,6 +72,7 @@ Agnieszka: Na spotkaniach macie ślubowanie, wiec warto ubrać się chociaż
 póloficjalnie.
 
 ##### Gdzie zaparkować samochód? (Q, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#gdzie-zaparkować-samochód-q-a-marcin-ławniczak-24092017)
 
 Jeżeli możesz - zrezygnuj z samochodu i przesiądź się na komunikację albo rowery
 miejskie (do 20 min. za darmo, po oddaniu roweru czas liczy się od nowa, można 
@@ -79,6 +84,7 @@ Galerii Malta lub Galerii Posnania oraz przy rondzie Śródka i dojść na
 piechotę/podjechać tramwajem.
 
 ##### Orientuje się ktoś jak wygląda proces wyrobienia karty na komunikację miejską w Poznaniu? Słyszałem też, że można mieć kartę komunikacji miejskiej i legitymację studencką na jednej karcie (plastiku) - prawda czy mit? (Q: Marek Krzyminski, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#orientuje-się-ktoś-jak-wygląda-proces-wyrobienia-karty-na-komunikację-miejską-w-poznaniu-słyszałem-też-że-można-mieć-kartę-komunikacji-miejskiej-i-legitymację-studencką-na-jednej-karcie-plastiku---prawda-czy-mit-q-marek-krzyminski-a-marcin-ławniczak-24092017)
 
 Można mieć PEKĘ (Poznańska Elektroniczna Karta Aglomeracyjna) na legitymacji
 studenckiej. Wszelkie informacje na ten temat, a także biletów znajdziesz na
