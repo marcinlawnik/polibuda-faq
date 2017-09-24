@@ -55,7 +55,7 @@ Dodatkowo warto obserwować plakaty na Wydziałach i informacje na ekranach w CW
 
 Inauguracja nie jest obowiązkowa, ale przynajmniej raz warto pójść.
 Jak nie pójdziesz na pierwszym roku, to kiedy? Rzadko jest okazja spotkać
-władze Uczelni w uroczystych strojach i posłuchać występu chóru.
+Władze Uczelni w uroczystych strojach i posłuchać występu chóru.
 
 Ja nie byłem na swoim pierwszym roku, bo, szczerze mówiąc, dopadł mnie kac
 gigant i żałuję. Nadrobiłem w roku kolejnym.
@@ -97,7 +97,7 @@ Jako student jesteś zobowiązany do uczęszczania na wszystkie zajęcia.
 W rzeczywistości zależy to jednak od prowadzącego, niektórzy robią listy, inni
 nie.
 
-Inną sytuacją jest L-4 od lekarza albo zwolnienie od dziekana/rektora.
+Inną sytuacją jest L-4 od lekarza albo zwolnienie od Dziekana/Rektora.
 Wtedy jesteś usprawiedliwiony/a.
 
 W przeciwieństwie do przedszkola, podstawówki, gimnazjum, liczeum czy technikum,
