@@ -65,13 +65,14 @@ spotkaniu organizacyjnym odbywa się ankieta.
 
 ![Przekreślenie pionowe w planie](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/WI/przekreslenie_pion.jpg)
 
-Jest to podpodział grupy dziekańskiej, ponieważ laboratoria na WI mieszczą
-maksymalnie 16 osób na raz. Część grupy ma zajęcia w tym terminie, część w innym.
-To, jak się podzielicie jest większości prowadzących obojętne, bylebyście się
-tego podziału trzymali (i najlepiej zrobili prowadzącemu listę).
-Nic się nie stanie jak raz czy dwa przyjdziecie na zajęcia do innej grupy, ale
-nie róbcie sobie z tego nawyku, no i najpierw zapytajcie prowadzącego czy was
-wpuści na zajęcia - może nie być miejsca lub jest przerabiany inny materiał.
+Jest to podpodział grupy dziekańskiej, ponieważ laboratoria na WI
+(oraz na innych wydziałach) mieszczą maksymalnie 16 osób na raz. Część grupy ma
+zajęcia w tym terminie, część w innym. To, jak się podzielicie jest większości
+prowadzących obojętne, bylebyście się tego podziału trzymali (i najlepiej
+zrobili prowadzącemu listę). Nic się nie stanie jak raz czy dwa przyjdziecie na
+zajęcia do innej grupy, ale nie róbcie sobie z tego nawyku, no i najpierw
+zapytajcie prowadzącego czy was wpuści na zajęcia - może nie być miejsca lub
+jest przerabiany inny materiał.
 
 ##### Co oznaczają poszczególne literki i cyferki w podsumowaniu planu? (Q: Arkadiusz Janowski, A: Marcin Ławniczak, 19.09.2017)
 
