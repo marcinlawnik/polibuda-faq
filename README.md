@@ -1,37 +1,52 @@
-## Welcome to GitHub Pages
+# Polibuda FAQ
 
-You can use the [editor on GitHub](https://github.com/marcinlawnik/polibuda-faq/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Najczęściej zadawane pytanie przez nowych, ale i doświadczonych studentów
+Politechniki Poznańskiej.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Spis treści
 
-### Markdown
+1. [Rozpoczęcie studiów](#rozpoczęcie-studiów)
+2. [Domy studenckie](#domy-studenckie)
+3. [Pytania specyficzne dla wydziałów](#pytania-specyficzne-dla-wydziałów)
+- [Wydział Informatyki](#wydział-informatyki-(wi)) (WI)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Rozpoczęcie studiów
 
-```markdown
-Syntax highlighted code block
+W budowie
 
-# Header 1
-## Header 2
-### Header 3
+### Domy studenckie
 
-- Bulleted
-- List
+W budowie
 
-1. Numbered
-2. List
+### Pytania specyficzne dla wydziałów
 
-**Bold** and _Italic_ and `Code` text
+#### Wydział Informatyki
+##### Gdzie znajdę plan zajęć? (Marcin Ławniczak, 24.09.2017)
 
-[Link](url) and ![Image](src)
-```
+Na stronie wydziału, o
+[tu](http://fc.put.poznan.pl/informacje-dla-studentow/tw-j-rozk-ad-zaj,131.html).
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+##### Co oznacza na planie jak dany przedmiot jest przekreślony? (Marcin Ławniczak, 24.09.2017)
 
-### Jekyll Themes
+![Dwa przedmioty w jednej komórce](https://raw.githubusercontent.com/marcinlawnik/polibuda-faq/master/images/WI/przekreslony.png)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/marcinlawnik/polibuda-faq/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Jeżeli komórka z daną godziną jest przekreślona na skos, jak na powyższym
+zdjęciu, znaczy to że dany przedmiot odbywa się albo w tygodnie parzyste, albo
+nieparzyste zgodnie z wykazem tygodni. Wykaz tygodni znajduje się na stronie
+z planem, na rok 2017/2018
+[tutaj](http://fc.put.poznan.pl/sites/default/files/WI_tygodnie%202017_18.pdf).
 
-### Support or Contact
+### Autorzy i kontakt
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Opiekunem projektu i głównym redaktorem jest Marcin Ławniczak. Jeżeli masz
+pytania lub sugestie, skontaktuj się przez maila lub Facebooka.
+
+### Licencja
+
+Ten projekt udostępniany jest na licencji
+[MIT](https://github.com/marcinlawnik/polibuda-faq/blob/master/LICENSE).
+
+Znaczy to tyle, że możesz robić z tym FAQ co chcesz, pod warunkiem że wskażesz
+oryginalnych autorów (wystarczy link do tego repozytorium) i nie będziesz nas
+pociągać do jakiejkolwiek odpowiedzialności (tzn. nie gwarantujemy poprawności
+odpowiedzi, ani niczego innego).
