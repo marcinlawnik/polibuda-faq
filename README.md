@@ -139,6 +139,9 @@ to jeszcze egzamin komisyjny (free), potem już warun (powtarzanie przedmiotu),
 który jest płatny. Warun jest płatny w zależności od ilości godzin, szczegóły w
 umowie o studia.
 
+##### Czy dziekankę można wziąć od drugiego semestru? (Q: Marta Frank, A: Ada Bączkowska, 24.09.2017)
+
+Tak, tylko musisz mieć zaliczony w całości pierwszy semestr.
 
 ### Pytania specyficzne dla wydziałów
 
