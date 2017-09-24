@@ -25,7 +25,8 @@ TL;DR: Tak, można olać.
 
 ##### Nie ogarniam formalności związanych ze studiami, mam jakiś problem. Gdzie szukać pomocy? (Q, A: Marcin Ławniczak, 24.09.2017)
 
-Zachęcam do kontaktu z Samorządem Studentów Politechniki Poznańskiej, poprzez
+W tym FAQ. Jeżeli jednak nie znajdziesz odpowiedzi, zachęcam do kontaktu
+z Samorządem Studentów Politechniki Poznańskiej, poprzez
 [ich Fanpage](https://www.facebook.com/SamorzadStudentowPolitechnikiPoznanskiej/)
 lub w trakcie dyżurów. Postarają się pomóc, albo podpowiedzą do kogo się zwrócić.
 
@@ -73,6 +74,17 @@ zrobili prowadzącemu listę). Nic się nie stanie jak raz czy dwa przyjdziecie 
 zajęcia do innej grupy, ale nie róbcie sobie z tego nawyku, no i najpierw
 zapytajcie prowadzącego czy was wpuści na zajęcia - może nie być miejsca lub
 jest przerabiany inny materiał.
+
+##### Jak interpretować dwa takie same wykłady pod rząd tylko w innych językach? (Q: Dominik Załuski, A: Marcin Ławniczak, 19.09.2017)
+
+![Przekreślenie pionowe w planie](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/WI/WDI.jpg)
+
+W liście o przyjęciu na studia jest informacja o grupie angielskiej - jeżeli się
+do niej zapiszecie macie obowiązek chodzić na zajęcia po angielsku. Wszyscy inni
+studenci mają dowolność, na który wykład chodzą. W tym szczególnym przypadku,
+wprowadzenia do informatyki (WDI), prof. Nawrocki nie sprawdza obecności i jest 
+obojętne, na który wykład chodzicie. Możecie podszkolić sobie język, albo pójść
+na wykład po polsku jeżeli czegoś nie zrozumieliście.
 
 ##### Co oznaczają poszczególne literki i cyferki w podsumowaniu planu? (Q: Arkadiusz Janowski, A: Marcin Ławniczak, 19.09.2017)
 
