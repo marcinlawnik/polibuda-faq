@@ -9,7 +9,8 @@ Politechniki Poznańskiej.
 2. [Domy studenckie](#domy-studenckie) (akademiki)
 3. [Zmiana kierunku](#zmiana-kierunku)
 4. [WF, sport i pokrewne](#wf-sport-i-pokrewne)
-5. [Pytania specyficzne dla wydziałów](#pytania-specyficzne-dla-wydziałów)
+5. [Poprawki i waruny](#poprawki-i-waruny)
+6. [Pytania specyficzne dla wydziałów](#pytania-specyficzne-dla-wydziałów)
 - [Wydział Informatyki (WI)](#wydział-informatyki-wi)
 
 ### Rozpoczęcie studiów
@@ -128,6 +129,15 @@ przedstawiane są dostępne sporty i przeprowadzane zapisy.
 Ankieta w 2016 zawierała następujące pytania:
 Imię, nazwisko, numer albumu, rocznik, kierunek, wydział,
 kiedy i gdzie masz zajęcia przed i po wfie i 3 preferowane sporty w kolejności.
+
+### Poprawki i waruny
+
+##### Czy jak nie zda się przedmiotu to poprawka jest płatna? (Q: Szymon Wojtkiewicz, A: Kamila Ziemba, 24.09.2017)
+
+Masz dwa terminy - termin główny i poprawkowy(za darmo), jeżeli są ku temu powody
+to jeszcze egzamin komisyjny (free), potem już warun (powtarzanie przedmiotu),
+który jest płatny. Warun jest płatny w zależności od ilości godzin, szczegóły w
+umowie o studia.
 
 
 ### Pytania specyficzne dla wydziałów
