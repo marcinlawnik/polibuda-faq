@@ -122,6 +122,11 @@ Musisz zadzwonić/napisać maila do Zintegrowanego Centrum Obsługi. Kontakt
 Możliwe też że są inne numery telefonów (wydawane jako małe ulotki),
 zapytaj na grupie na Facebooku.
 
+##### Ile kosztuje pobyt w akademiku? (Q: Dominik Rolewski, A: Marcin Ławniczak, 24.09.2017)
+
+Aktualne informacje znajdziecie na stronie akademików,
+[tu](http://www.hstl.put.poznan.pl/index.php?oplaty).
+
 ##### Który z akademików szczyci się najlepszymi opiniami? (Q: Dominika Wrycz Rekowska, A: Tomasz Kwapiszewski, Marcin Ławniczak, 24.09.2017)
 
 - Generalnie są dwa "luksusowe" - z wysokim standardem, ale też dość wysoką ceną.
