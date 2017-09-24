@@ -52,6 +52,20 @@ nieparzyste zgodnie z wykazem tygodni. Wykaz tygodni znajduje się na stronie
 z planem, na rok 2017/2018
 [tutaj](http://fc.put.poznan.pl/sites/default/files/WI_tygodnie%202017_18.pdf).
 
+##### Co oznaczają poszczególne literki i cyferki w podsumowaniu planu? (Q: Arkadiusz Janowski, A: Marcin Ławniczak, 19.09.2017)
+
+![godziny](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/WI/godziny.jpg)
+
+- W - wykłady
+- C - ćwiczenia
+- L - laboratoria
+- P - projekt (czyli w praktyce to samo co laboratoria)
+- E - egzamin (czy jest z tego przedmiotu czy nie)
+
+Cyferki w poszczególnych komórkach oznaczają ile czasu jest przeznaczone na
+poszczególne formy nauki. Czyli jak na obrazku powyżej jest 30h wykładów
+z Analizy Matematycznej, oraz 30h ćwiczeń. Są to godziny ZEGAROWE, nie lekcyjne.
+
 ##### Kiedy będziemy mogli wybrać przedmiot humanistyczny i który jest lepszy/bardziej przydatny? (Q: Michalina Średniawa, A: Marcin Ławniczak, 22.09.2017)
 
 Większość przedmiotów humanistycznych na Polibudzie to, delikatnie mówiąc, 
