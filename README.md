@@ -10,10 +10,36 @@ Politechniki Poznańskiej.
 3. [Zmiana kierunku](#zmiana-kierunku)
 4. [WF, sport i pokrewne](#wf-sport-i-pokrewne)
 5. [Poprawki i waruny](#poprawki-i-waruny)
-6. [Pytania specyficzne dla wydziałów](#pytania-specyficzne-dla-wydziałów)
+6. [Koła naukowe i organizacje studenckie](#koła-naukowe-i-organizacje-studenckie)
+7. [Erasmus, inne wyjazdy](#erasmus-inne-wyjazdy)
+8. [Pytania specyficzne dla wydziałów](#pytania-specyficzne-dla-wydziałów)
 - [Wydział Informatyki (WI)](#wydział-informatyki-wi)
 
 ### Rozpoczęcie studiów
+
+##### Kursy uzupełniające z Matematyki i Fizyki - warto czy nie? (Q, A: Marcin Ławniczak, 24.09.2017)
+
+Marta Pogodska: Byłam na tym kursie. I to na rozszerzonym. Po mat-fizie w liceum
+niczego się tam nie nauczyłam. Podobno zależy też, na którego prowadzącego się
+trafi. Mój nie podszedł do tematu zbyt ambitnie.
+
+Tomasz Kwapiszewski (WEiT): No w sumie jak ja szedłem na studia to te kursy były
+darmowe, ale nic nie dawały :D oprócz powtórki z liceum, która na studiach nie
+była potrzebna, ew. kilka tematów z logarytmów - które są na tyle łatwe, ze nie
+potrzeba dodatkowych korków, ogarnie sie na zajęciach :D
+
+Generalnie o matematykę na studiach sie nie bójcie, tylko wygooglujcie sobie co to eTrapez :heart:
+
+
+##### Jak być na bieżąco z tym co dzieje się na Politechnice? (Q, A: Marcin Ławniczak, 24.09.2017)
+
+Eventy - zawsze warto się przejść i uczestniczyć.
+Ja np. w zeszłym roku akademickim byłem na pierwszym w życiu hackathonie i było
+świetnie. Plus na PP strasznie dużo się dzieje, warto być na bieżąco z fanpage
+[SSPP](https://www.facebook.com/SamorzadStudentowPolitechnikiPoznanskiej), 
+[RKN](https://www.facebook.com/RKNPP/), Wydziałów i Kół, które Cię interesują.
+
+DOdatkowo warto obserwować plakaty na Wydziałach i informacje na ekranach w CW i BM.
 
 ##### A te inauguracje roku można olać czy tak niezbyt? (Q: Monika Mąka, A: Marcin Ławniczak, 24.09.2017)
 
@@ -26,7 +52,7 @@ gigant i żałuję. Nadrobiłem w roku kolejnym.
 
 TL;DR: Tak, można olać.
 
-##### Na dzisiaj (spotkanie organizacyjne) obowiązuje strój galowy? Na immatrykulację w środę tak, ale na dzisiaj też? (Q: Julia Zieleniewska, A: Filip Śnieguła, Agnieszka Wałęsa, 24.09.2017)
+##### Na spotkanie organizacyjne obowiązuje strój galowy? Na immatrykulację tak, ale na dzisiaj też? (Q: Julia Zieleniewska, A: Filip Śnieguła, Agnieszka Wałęsa, 24.09.2017)
 
 Filip: Generalnie zawsze lepiej ubrać się za dobrze niż w drugą stronę.       
 Ale nie, nie obowiązuje.
@@ -51,6 +77,19 @@ Można mieć PEKĘ (Poznańska Elektroniczna Karta Aglomeracyjna) na legitymacji
 studenckiej. Wszelkie informacje na ten temat, a także biletów znajdziesz na
 [www.peka.poznan.pl](https://www.peka.poznan.pl).
 
+
+##### Jak wyglądają dopuszczalne nieobecności? (Q: Krystian Birecki, A: Marcin Ławniczak, 24.09.2017)
+
+Jako student jesteś zobowiązany do uczęszczania na wszystkie zajęcia.
+W rzeczywistości zależy to jednak od prowadzącego, niektórzy robią listy, inni
+nie.
+
+Inną sytuacją jest L-4 od lekarza albo zwolnienie od dziekana/rektora.
+Wtedy jesteś usprawiedliwiony/a.
+
+W przeciwieństwie do przedszkola, podstawówki, gimnazjum, liczeum czy technikum,
+zwolnienie od mamy, wujka, babci czy cioci nic nie daje.
+
 ##### Nie ogarniam formalności związanych ze studiami, mam jakiś problem. Gdzie szukać pomocy? (Q, A: Marcin Ławniczak, 24.09.2017)
 
 W tym FAQ. Jeżeli jednak nie znajdziesz odpowiedzi, zachęcam do kontaktu
@@ -72,14 +111,18 @@ zapytaj na grupie na Facebooku.
 
 - Generalnie są dwa "luksusowe" - z wysokim standardem, ale też dość wysoką ceną.
 (DS1 i DS4)
-- Dalej są wysokie: DS5 i DS6 - moim zdaniem najlepszy stosunek ceny do jakości (przy czym 6 jest delikatnie lepsza - łazienka na dwa pokoje, w przypadku 5 jest to łazienka na cztery pokoje)
-- tabelę zamykają DS2 i DS3, które to mają łazienki ogólne (tzn. na każdym pietrze duza łazienka dla większej ilości osób) ;) 
+- Dalej są wysokie: DS5 i DS6 - moim zdaniem najlepszy stosunek ceny do jakości
+(przy czym 6 jest delikatnie lepsza - łazienka na dwa pokoje, w przypadku 5 jest
+to łazienka na cztery pokoje)
+- tabelę zamykają DS2 i DS3, które to mają łazienki ogólne (tzn. na każdym
+pietrze duza łazienka dla większej ilości osób) :smirk: 
 
 Jak ja to zawsze powtarzam: te wszystkie historie, które się słyszy o akademikach,
 co tam się nie wyrabia i ile imprez nie ma - to generalnie jest prawda,
 ale tylko jesli tego chcesz. :stuck_out_tongue_winking_eye:
 Można też sobie spokojnie żyć.
-Chyba we wszystkich akademikach klimat jest genialny, nie zamieniłbym tego na żadne mieszkanie ;)
+Chyba we wszystkich akademikach klimat jest genialny, nie zamieniłbym tego na
+żadne mieszkanie :smirk:
 
 ```
 PS (od Marcina) Ja za to znam sporadyczne przypadki, gdzie trafi się na złych
@@ -142,6 +185,44 @@ umowie o studia.
 ##### Czy dziekankę można wziąć od drugiego semestru? (Q: Marta Frank, A: Ada Bączkowska, 24.09.2017)
 
 Tak, tylko musisz mieć zaliczony w całości pierwszy semestr.
+
+###Koła naukowe i organizacje studenckie
+
+##### Gdzie znajdę informacje o kołach naukowych? (Q, A: Marcin Ławniczak, 24.09.2017)
+
+Na stronie [Rady Kół Naukowych](http://rkn.put.poznan.pl) i na stronach
+poszczególnych kół.
+
+Dodatkowo w październiku odbywa się Dzień Organizacji Studenckich i Kół Naukowych
+(tzw. DOSiKN, dosik), gdzie możesz porozmawiać z członkami i dołączyć do
+kół/organizacji które cię interesują.
+
+Polecam dołączenie i skupienie się na 1-2 rzeczach - ja dołączyłem do 5 różnych
+i staram się w każdej udzielać, ale na niczym nie byłem w stanie skupić się mocno.
+Trzeba się ograniczyć.
+
+
+### Erasmus, inne wyjazdy
+
+##### Czy warto  pod względem nauki języka oraz doświadczenia związanego z programowaniem? (Q: Jakob Wolitzki, A: Marcin Ławniczak, 24.09.2017)
+
+Pod względem nauki języka i zmiany otoczenia - warto na 200%. Wystarczy przejść 
+się na spotkania organiowane przez Dział Edukacji Ustawicznej i Międzynarodowej,
+albo zapytać kogos kto był. Ja miałem jechać w tym roku do Słowenii, ale z okazji
+zmiany kierunku pojadę w przyszłym roku. Wszyscy moi znajomi którzy pojechali
+mówią że warto. Czasami może być ciężko z szokiem kulturowym i oddaleniem od
+domu/znajomych, ale jakby w życiu było łatwo to nikt by się nie starał.
+
+Co do programowania - zależy gdzie się wybierasz i jakie przedmioty sobie na
+Erasmusie weźmiesz, ale raczej programowania i tak będziesz musiał nauczyć się sam.
+
+##### Jeżeli tak to kiedy się zapisać i gdzie się orientować z tym? (Q: Jakob Wolitzki, A: Marcin Ławniczak, 24.09.2017)
+
+Zapisy wstępne na kolejny rok akademicki są zazwyczaj w styczniu, plus potem ew.
+uzupełnianie miejsc. Czyli żeby pojechać w 2018/2019 (Na II roku studiów), to
+gdzieś tak w styczniu 2018 będą ogłaszać. Co do orientowania - przychodzą maile
+na skrzynkę uczelnianą o tym, kiedy są spotkania informacyjne, oprócz tego są
+porozwieszane plakaty i informacje na ekranach w CW. Także raczej nie przegapisz.
 
 ### Pytania specyficzne dla wydziałów
 
@@ -229,3 +310,6 @@ Znaczy to tyle, że możesz robić z tym FAQ co chcesz, pod warunkiem że wskaż
 oryginalnych autorów (wystarczy link do tego repozytorium) i nie będziesz nas
 pociągać do jakiejkolwiek odpowiedzialności (tzn. nie gwarantujemy poprawności
 odpowiedzi, ani niczego innego).
+
+### Inne
+Użyte emoji: [tu](https://gist.github.com/rxaviers/7360908).
