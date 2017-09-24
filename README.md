@@ -19,9 +19,9 @@ Politechniki Poznańskiej.
 
 ##### Kursy uzupełniające z Matematyki i Fizyki - warto czy nie? (Q, A: Marcin Ławniczak, 24.09.2017)
 
-Marta Pogodska: Byłam na tym kursie. I to na rozszerzonym. Po mat-fizie w liceum
-niczego się tam nie nauczyłam. Podobno zależy też, na którego prowadzącego się
-trafi. Mój nie podszedł do tematu zbyt ambitnie.
+Marta Pogodska (WI): Byłam na tym kursie. I to na rozszerzonym. Po mat-fizie w
+liceum niczego się tam nie nauczyłam. Podobno zależy też, na którego prowadzącego
+się trafi. Mój nie podszedł do tematu zbyt ambitnie.
 
 Tomasz Kwapiszewski (WEiT): No w sumie jak ja szedłem na studia to te kursy były
 darmowe, ale nic nie dawały :D oprócz powtórki z liceum, która na studiach nie
