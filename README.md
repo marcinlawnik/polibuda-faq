@@ -320,6 +320,16 @@ nic specjalnego. Czasami trafi się spoko prowadzący który coś ciekawie opowi
 (u mnie jak na razie 1 z 3 był w miarę ok, 3 przedmioty humanistyczne na I roku),
 ale najczęściej trzeba to po prostu odbębnić.
 
+##### Czy jest Meyer? (Q: Studenci AiR, A: Marcin Ławniczak, zawsze)
+
+![godziny](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/WI/meyer.jpg)
+
+`by Emilia Baranowska`
+
+Nie wiem, ale pogłoski głoszą że pewna dzielna grupa przygotowuje już
+MeyerTracker 3000 oparty na GPS i rozpoznawaniu jego polarów w celu
+dostarczenia informacji na bieżąco wszystkim spragnionym tej wiedzy.
+
 ### Autorzy i kontakt
 [Powrót do spisu treści](#spis-treści)
 
