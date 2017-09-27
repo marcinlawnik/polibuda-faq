@@ -3,6 +3,12 @@
 Najczęściej zadawane pytanie przez nowych, ale i doświadczonych studentów
 Politechniki Poznańskiej.
 
+#### WAŻNE
+```
+To jest polibuda-faq w wersji 1.0, data wydania 27.09.2017.
+```
+Najnowszą wersję zawsze znajdziesz pod adresem [https://lawniczak.me/polibuda-faq/](https://lawniczak.me/polibuda-faq/).
+
 ## Spis treści
 
 1. [Rozpoczęcie studiów](#rozpoczęcie-studiów)
@@ -91,12 +97,14 @@ studenckiej. Wszelkie informacje na ten temat, a także biletów znajdziesz na
 [www.peka.poznan.pl](https://www.peka.poznan.pl).
 
 ##### Czy jest możliwość zmiany grupy dziekańskiej? (Q, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#czy-jest-możliwość-zmiany-grupy-dziekańskiej-q-a-marcin-ławniczak-24092017)
 
 Jeżeli Dziekanat wyrazi zgodę oraz jak będą miejsca w innych grupach.
 Problem zawsze jest na zajęciach laboratoryjnych z ograniczoną liczbą miejsc.
 Najprościej jednak znaleźć kogoś kto jest z tamtej grupy i woli być w Twojej.
 
 ##### Jak wyglądają dopuszczalne nieobecności? (Q: Krystian Birecki, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#jak-wyglądają-dopuszczalne-nieobecności-q-krystian-birecki-a-marcin-ławniczak-24092017)
 
 Jako student jesteś zobowiązany do uczęszczania na wszystkie zajęcia.
 W rzeczywistości zależy to jednak od prowadzącego, niektórzy robią listy, inni
@@ -109,6 +117,7 @@ W przeciwieństwie do przedszkola, podstawówki, gimnazjum, liczeum czy techniku
 zwolnienie od mamy, wujka, babci czy cioci nic nie daje.
 
 ##### Nie ogarniam formalności związanych ze studiami, mam jakiś problem. Gdzie szukać pomocy? (Q, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#nie-ogarniam-formalności-związanych-ze-studiami-mam-jakiś-problem-gdzie-szukać-pomocy-q-a-marcin-ławniczak-24092017)
 
 W tym FAQ. Jeżeli jednak nie znajdziesz odpowiedzi, zachęcam do kontaktu
 z Samorządem Studentów Politechniki Poznańskiej, poprzez
@@ -121,6 +130,7 @@ lub w trakcie dyżurów. Postarają się pomóc, albo podpowiedzą do kogo się 
 
 
 ##### Gdzie znajdę informacje że dostałam się lub nie dostałam do akademika? (Q: Dominika Wrycz Rekowska, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#gdzie-znajdę-informacje-że-dostałam-się-lub-nie-dostałam-do-akademika-q-dominika-wrycz-rekowska-a-marcin-ławniczak-24092017)
 
 Musisz zadzwonić/napisać maila do Zintegrowanego Centrum Obsługi. Kontakt
 [tutaj](http://bip.put.poznan.pl/struktura-organizacyjna/423).
@@ -128,11 +138,13 @@ Możliwe też że są inne numery telefonów (wydawane jako małe ulotki),
 zapytaj na grupie na Facebooku.
 
 ##### Ile kosztuje pobyt w akademiku? (Q: Dominik Rolewski, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#ile-kosztuje-pobyt-w-akademiku-q-dominik-rolewski-a-marcin-ławniczak-24092017)
 
 Aktualne informacje znajdziecie na stronie akademików,
 [tu](http://www.hstl.put.poznan.pl/index.php?oplaty).
 
 ##### Który z akademików szczyci się najlepszymi opiniami? (Q: Dominika Wrycz Rekowska, A: Tomasz Kwapiszewski, Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#który-z-akademików-szczyci-się-najlepszymi-opiniami-q-dominika-wrycz-rekowska-a-tomasz-kwapiszewski-marcin-ławniczak-24092017)
 
 - Generalnie są dwa "luksusowe" - z wysokim standardem, ale też dość wysoką ceną.
 (DS1 i DS4)
@@ -156,10 +168,12 @@ zamianę.
 ```
 
 ##### Czy jak na deklaracji wpiszę preferowany numer DS, a w nim nie będzie już miejsc to jest szansa ze dostanę się do innego? (Q: Daria Staszewska, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#czy-jak-na-deklaracji-wpiszę-preferowany-numer-ds-a-w-nim-nie-będzie-już-miejsc-to-jest-szansa-ze-dostanę-się-do-innego-q-daria-staszewska-a-marcin-ławniczak-24092017)
 
 Tak, zostanie Ci przydzielone miejsce w innym DS.
 
 ##### Czy ktoś z Was mógłby mi przybliżyć, jak żyje się w DS nr 1? (Q: Izabela Janiak, A: Hubert Garus, 20.09.2017)
+[Bezpośredni link](#czy-ktoś-z-was-mógłby-mi-przybliżyć-jak-żyje-się-w-ds-nr-1-q-izabela-janiak-a-hubert-garus-20092017)
 
 Jeżeli chodzi o DS1 to jest to akademik, w którym mieszkają zazwyczaj studenci
 zagraniczni oraz "starsi" studenci. Łazienka jest w pokoju, kuchnia na korytarzu.
@@ -177,6 +191,7 @@ ma na zaparkowanie samochodu.
 
 
 ##### Jak wygląda przeniesienie się na inny wydział i czy jest to w ogóle możliwe po 1 semestrze? (Q: Magdalena Warmbier, A: Bartosz Mila)
+[Bezpośredni link](#jak-wygląda-przeniesienie-się-na-inny-wydział-i-czy-jest-to-w-ogóle-możliwe-po-1-semestrze-q-magdalena-warmbier-a-bartosz-mila)
 
 Musisz pójść do dziekanatu wydziału na który chcesz się przenieść,
 tam ich o wszystko zapytaj (mogą być jakieś różnice na różnych wydziałach).
@@ -194,6 +209,7 @@ Warto też wszystko zdać w pierwszym terminie.
 
 
 ##### Jak wyglądają zapisy na wf? (Q: Klaudia Kaczor, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#jak-wyglądają-zapisy-na-wf-q-klaudia-kaczor-a-marcin-ławniczak-24092017)
 
 Zazwyczaj na pierwszych zajęciach z WF jest spotkanie organizacyjne, na których
 przedstawiane są dostępne sporty i przeprowadzane zapisy.
@@ -206,6 +222,7 @@ kiedy i gdzie masz zajęcia przed i po wfie i 3 preferowane sporty w kolejności
 [Powrót do spisu treści](#spis-treści)
 
 ##### Czy jak nie zda się przedmiotu to poprawka jest płatna? (Q: Szymon Wojtkiewicz, A: Kamila Ziemba, 24.09.2017)
+[Bezpośredni link](#czy-jak-nie-zda-się-przedmiotu-to-poprawka-jest-płatna-q-szymon-wojtkiewicz-a-kamila-ziemba-24092017)
 
 Masz dwa terminy - termin główny i poprawkowy(za darmo), jeżeli są ku temu powody
 to jeszcze egzamin komisyjny (free), potem już warun (powtarzanie przedmiotu),
@@ -213,6 +230,7 @@ który jest płatny. Warun jest płatny w zależności od ilości godzin, szczeg
 umowie o studia.
 
 ##### Czy dziekankę można wziąć od drugiego semestru? (Q: Marta Frank, A: Ada Bączkowska, 24.09.2017)
+[Bezpośredni link](#czy-dziekankę-można-wziąć-od-drugiego-semestru-q-marta-frank-a-ada-bączkowska-24092017)
 
 Tak, tylko musisz mieć zaliczony w całości pierwszy semestr.
 
@@ -220,6 +238,7 @@ Tak, tylko musisz mieć zaliczony w całości pierwszy semestr.
 [Powrót do spisu treści](#spis-treści)
 
 ##### Gdzie znajdę informacje o kołach naukowych? (Q, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#gdzie-znajdę-informacje-o-kołach-naukowych-q-a-marcin-ławniczak-24092017)
 
 Na stronie [Rady Kół Naukowych](http://rkn.put.poznan.pl) i na stronach
 poszczególnych kół.
@@ -237,6 +256,7 @@ Trzeba się ograniczyć.
 [Powrót do spisu treści](#spis-treści)
 
 ##### Czy warto  pod względem nauki języka oraz doświadczenia związanego z programowaniem? (Q: Jakob Wolitzki, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#czy-warto--pod-względem-nauki-języka-oraz-doświadczenia-związanego-z-programowaniem-q-jakob-wolitzki-a-marcin-ławniczak-24092017)
 
 Pod względem nauki języka i zmiany otoczenia - warto na 200%. Wystarczy przejść 
 się na spotkania organiowane przez Dział Edukacji Ustawicznej i Międzynarodowej,
@@ -249,6 +269,7 @@ Co do programowania - zależy gdzie się wybierasz i jakie przedmioty sobie na
 Erasmusie weźmiesz, ale raczej programowania i tak będziesz musiał nauczyć się sam.
 
 ##### Jeżeli tak to kiedy się zapisać i gdzie się orientować z tym? (Q: Jakob Wolitzki, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#jeżeli-tak-to-kiedy-się-zapisać-i-gdzie-się-orientować-z-tym-q-jakob-wolitzki-a-marcin-ławniczak-24092017)
 
 Zapisy wstępne na kolejny rok akademicki są zazwyczaj w styczniu, plus potem ew.
 uzupełnianie miejsc. Czyli żeby pojechać w 2018/2019 (Na II roku studiów), to
@@ -262,11 +283,13 @@ porozwieszane plakaty i informacje na ekranach w CW. Także raczej nie przegapis
 #### Wydział Informatyki (WI)
 [Powrót do spisu treści](#spis-treści)
 ##### Gdzie znajdę plan zajęć? (Q, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#gdzie-znajdę-plan-zajęć-q-a-marcin-ławniczak-24092017)
 
 Na stronie wydziału, o
 [tu](http://fc.put.poznan.pl/informacje-dla-studentow/tw-j-rozk-ad-zaj,131.html).
 
 ##### Co oznacza na planie jak dany przedmiot jest przekreślony na skos? (Q: Tomek Ostrzeniewski, A: Marcin Ławniczak, 24.09.2017)
+[Bezpośredni link](#co-oznacza-na-planie-jak-dany-przedmiot-jest-przekreślony-na-skos-q-tomek-ostrzeniewski-a-marcin-ławniczak-24092017)
 
 ![Dwa przedmioty w jednej komórce](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/WI/przekreslony.PNG)
 
@@ -277,6 +300,7 @@ z planem, na rok 2017/2018
 [tutaj](http://fc.put.poznan.pl/sites/default/files/WI_tygodnie%202017_18.pdf).
 
 ##### Co oznacza poziome przekreślenie? (Q: Marcin Ryba Pałasz, A: Marcin Ławniczak, 19.09.2017)
+[Bezpośredni link](#co-oznacza-poziome-przekreślenie-q-marcin-ryba-pałasz-a-marcin-ławniczak-19092017)
 
 ![Przekreślenie poziome w planie](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/WI/przekreslony_poziomo.jpg)
 
@@ -286,6 +310,7 @@ co wybrałeś/aś i na co zostałeś/aś przydzielona/y. Semestr wcześniej, alb
 spotkaniu organizacyjnym odbywa się ankieta.
 
 ##### Co oznacza przedmiot wpisany w połowie (pionowe przekreślenie)? (Q: Jakub Górny, A: Marcin Ławniczak, 19.09.2017)
+[Bezpośredni link](#co-oznacza-przedmiot-wpisany-w-połowie-pionowe-przekreślenie-q-jakub-górny-a-marcin-ławniczak-19092017)
 
 ![Przekreślenie pionowe w planie](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/WI/przekreslenie_pion.jpg)
 
@@ -299,6 +324,7 @@ zapytajcie prowadzącego czy was wpuści na zajęcia - może nie być miejsca lu
 jest przerabiany inny materiał.
 
 ##### Jak interpretować dwa takie same wykłady pod rząd tylko w innych językach? (Q: Dominik Załuski, A: Marcin Ławniczak, 19.09.2017)
+[Bezpośredni link](#jak-interpretować-dwa-takie-same-wykłady-pod-rząd-tylko-w-innych-językach-q-dominik-załuski-a-marcin-ławniczak-19092017)
 
 ![Przekreślenie pionowe w planie](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/WI/WDI.jpg)
 
@@ -310,6 +336,7 @@ obojętne, na który wykład chodzicie. Możecie podszkolić sobie język, albo 
 na wykład po polsku jeżeli czegoś nie zrozumieliście.
 
 ##### Co oznaczają poszczególne literki i cyferki w podsumowaniu planu? (Q: Arkadiusz Janowski, A: Marcin Ławniczak, 19.09.2017)
+[Bezpośredni link](#co-oznaczają-poszczególne-literki-i-cyferki-w-podsumowaniu-planu-q-arkadiusz-janowski-a-marcin-ławniczak-19092017)
 
 ![godziny](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/WI/godziny.jpg)
 
@@ -324,6 +351,7 @@ poszczególne formy nauki. Czyli jak na obrazku powyżej jest 30h wykładów
 z Analizy Matematycznej, oraz 30h ćwiczeń. Są to godziny ZEGAROWE, nie lekcyjne.
 
 ##### Kiedy będziemy mogli wybrać przedmiot humanistyczny i który jest lepszy/bardziej przydatny? (Q: Michalina Średniawa, A: Marcin Ławniczak, 22.09.2017)
+[Bezpośredni link](#kiedy-będziemy-mogli-wybrać-przedmiot-humanistyczny-i-który-jest-lepszybardziej-przydatny-q-michalina-średniawa-a-marcin-ławniczak-22092017)
 
 Większość przedmiotów humanistycznych na Polibudzie to, delikatnie mówiąc, 
 nic specjalnego. Czasami trafi się spoko prowadzący który coś ciekawie opowie
