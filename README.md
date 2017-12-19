@@ -301,7 +301,7 @@ a wyniki miały wartość statystyczną :)__
 
 ![eAnkietaSSPP](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/eAnkieta/eankieta_sspp.png)
 
-*eAnkieta - Grafika przygotowana przez SSPP w 2015*
+*eAnkieta - Grafika przygotowana przez SSPP w 2015 [(Źródło)](https://www.facebook.com/SamorzadStudentowPolitechnikiPoznanskiej/photos/a.401250118023.179732.80155098023/10153741033953024/)*
 
 Żeby wypełnić ankietę, trzeba się zalogować do eKonta, co budzi uzasadnione
 wątpliwości wielu studentów, że ich odpowiedzi, w tym te pisemne będą
