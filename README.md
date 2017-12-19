@@ -5,7 +5,7 @@ Politechniki Poznańskiej.
 
 #### WAŻNE
 ```
-To jest polibuda-faq w wersji 1.0, data wydania 27.09.2017.
+To jest polibuda-faq w wersji 1.1, data wydania 19.12.2017.
 ```
 Najnowszą wersję zawsze znajdziesz pod adresem [https://lawniczak.me/polibuda-faq/](https://lawniczak.me/polibuda-faq/).
 
