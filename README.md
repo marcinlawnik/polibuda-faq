@@ -291,11 +291,17 @@ prowadzących, sposób prowadzenia zajęć i przekazania materiału,
 a także ogólną jakość nauczania.
 Wypełnienie ankiety jest anonimowe, ale w celu jej wypełniania
 należy zalogować się z wykorzystaniem własnego eKonta studenckiego.
+__Służy to temu, aby ankietę wypełniały jedynie konkretne grupy uprawnionych,
+a wyniki miały wartość statystyczną :)__
 
 Źródło: [student.put.poznan.pl](https://www.student.put.poznan.pl/nowosc/20100323132)
 
 ##### Czy eAnkieta jest na prawdę anonimowa? (Q, A: Marcin Ławniczak, 19.12.2017)
 [Bezpośredni link](czy-ankieta-jest-na-prawdę-anonimowa-q-a-marcin-ławniczak-19122017)
+
+![eAnkietaSSPP](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/eAnkieta/eankieta_sspp.png)
+
+*eAnkieta - Grafika przygotowana przez SSPP w 2015*
 
 Żeby wypełnić ankietę, trzeba się zalogować do eKonta, co budzi uzasadnione
 wątpliwości wielu studentów, że ich odpowiedzi, w tym te pisemne będą
