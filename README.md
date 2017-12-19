@@ -5,7 +5,7 @@ Politechniki Poznańskiej.
 
 #### WAŻNE
 ```
-To jest polibuda-faq w wersji 1.0, data wydania 27.09.2017.
+To jest polibuda-faq w wersji 1.1, data wydania 19.12.2017.
 ```
 Najnowszą wersję zawsze znajdziesz pod adresem [https://lawniczak.me/polibuda-faq/](https://lawniczak.me/polibuda-faq/).
 
@@ -18,7 +18,8 @@ Najnowszą wersję zawsze znajdziesz pod adresem [https://lawniczak.me/polibuda-
 5. [Poprawki i waruny](#poprawki-i-waruny)
 6. [Koła naukowe i organizacje studenckie](#koła-naukowe-i-organizacje-studenckie)
 7. [Erasmus, inne wyjazdy](#erasmus-inne-wyjazdy)
-8. [Pytania specyficzne dla wydziałów](#pytania-specyficzne-dla-wydziałów)
+8. [eAnkieta](#eankieta)
+9. [Pytania specyficzne dla wydziałów](#pytania-specyficzne-dla-wydziałów)
 - [Wydział Informatyki (WI)](#wydział-informatyki-wi)
 
  a. [Autorzy i kontakt](#autorzy-i-kontakt)
@@ -276,6 +277,84 @@ uzupełnianie miejsc. Czyli żeby pojechać w 2018/2019 (Na II roku studiów), t
 gdzieś tak w styczniu 2018 będą ogłaszać. Co do orientowania - przychodzą maile
 na skrzynkę uczelnianą o tym, kiedy są spotkania informacyjne, oprócz tego są
 porozwieszane plakaty i informacje na ekranach w CW. Także raczej nie przegapisz.
+
+### eAnkieta
+[Powrót do spisu treści](#spis-treści)
+
+##### Co to jest eAnkieta? (Q, A: Marcin Ławniczak, 19.12.2017)
+[Bezpośredni link](co-to-jest-eankieta-q-a-marcin-ławniczak-19122017)
+
+eAnkieta to system, który umożliwia ocenę zajęć dydaktycznych oraz
+prowadzących zajęcia. Po każdym semestrze dostępne do oceny są zajęcia,
+które odbyły się w semestrze poprzednim. Ocenia się przygotowanie
+prowadzących, sposób prowadzenia zajęć i przekazania materiału,
+a także ogólną jakość nauczania.
+Wypełnienie ankiety jest anonimowe, ale w celu jej wypełniania
+należy zalogować się z wykorzystaniem własnego eKonta studenckiego.
+__Służy to temu, aby ankietę wypełniały jedynie konkretne grupy uprawnionych,
+a wyniki miały wartość statystyczną :)__
+
+Źródło: [student.put.poznan.pl](https://www.student.put.poznan.pl/nowosc/20100323132)
+
+##### Czy eAnkieta jest na prawdę anonimowa? (Q, A: Marcin Ławniczak, 19.12.2017)
+[Bezpośredni link](czy-ankieta-jest-na-prawdę-anonimowa-q-a-marcin-ławniczak-19122017)
+
+![eAnkietaSSPP](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/eAnkieta/eankieta_sspp.png)
+
+*eAnkieta - Grafika przygotowana przez SSPP w 2015*
+
+Żeby wypełnić ankietę, trzeba się zalogować do eKonta, co budzi uzasadnione
+wątpliwości wielu studentów, że ich odpowiedzi, w tym te pisemne będą
+powiązane z ich nazwiskiem i mogą doprowadzić do nieprzyjemnych sytuacji.
+
+Do ocen i odpowiedzi w eAnkiecie dostęp mają Dziekani danego wydziału.
+System skonstruowany jest w taki sposób, że po wypełnieniu ankieta jest
+zapisywana do wspólnej puli, a konto jest oznaczone jako takie, na którym
+ankieta została wypełniona. NIE MA żadnej informacji wiążącej odpowiedzi
+z konkretnym kontem i nie jest możliwe uzyskanie takiej informacji.
+
+Dziekani widzą tylko średnią ocen danego przedmiotu i odpowiedzi tekstowe.
+Te dane są także później przekazywane prowadzącym poszczególnych przedmiotów.
+
+##### Po co wypełniać eAnkietę? (Q, A: Marcin Ławniczak, 19.12.2017)
+[Bezpośredni link](po-co-wypełniać-eankietę-q-a-marcin-ławniczak-19122017)
+
+Zabiera czas i jest nudna, więc po co?
+
+__Poprawa jakości kształcenia__
+
+Prowadzący nie potrafi przekazać informacji, jest nieprzyjemny dla
+studentów albo jego przedmiot to strata czasu? To właśnie wyniki eAnkiety
+dają podstawę/"podkładkę" dziekanowi do przeprowadzenia wizytacji zajęć
+czy też zmiany osoby prowadzącej dany przedmiot.
+
+__Nagrodzenie pracy prowadzących__
+
+Prowadzący tłumaczy temat jasno i przejrzyście? Na jego zajęcia
+przychodzisz z przyjemnością? Jest chodzącą skarbnicą wiedzy, a nie tylko
+lektorem książki?
+
+**_Nagródź go!_**
+
+Na koniec roku kalendarzowego JM Rektor przyznaje prowadzącym najlepsze
+przedmioty na każdym wydziale nagrody. Przyznawane są one całemu zespołowi
+prowadzącemu dany przedmiot (wykładowcom, ćwiczeniowcom i prowadzącym laboratoria)
+i nie są tylko świstkiem papieru, ale mają także wartość pieniężną.
+
+__Wolne dni__
+
+Jako Samorząd co roku mamy zakład z Rektorem o procentową ilość wypełnionych
+ankiet. Powyżej pewnego procenta studenci dostają wolny dzień
+(*tzw. "godziny rektorskie"*). W roku akademickim 2017/2018 będą/były to dni
+30.04.2018 i 04.05.2018, co skutkowało 9-dniową majówką.
+
+__Kalendarz Akademicki__
+
+Co roku Samorząd przeprowadza Akcję Ankietyzację, podczas której za
+wypełnienie ankiety można dostać Kalendarz Akademicki, normalnie
+przygotowywany tylko dla studentów I roku. Oprocz funkcji kalendarza
+zawiera także zniżki, kolorowanki i łamigłówki, mające na celu ratowanie
+studentów podczas biedy i nudy na wykładach.
 
 ### Pytania specyficzne dla wydziałów
 [Powrót do spisu treści](#spis-treści)
