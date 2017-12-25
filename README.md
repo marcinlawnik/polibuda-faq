@@ -282,7 +282,7 @@ porozwieszane plakaty i informacje na ekranach w CW. Także raczej nie przegapis
 [Powrót do spisu treści](#spis-treści)
 
 ##### Co to jest eAnkieta? (Q, A: Marcin Ławniczak, 19.12.2017)
-[Bezpośredni link](co-to-jest-eankieta-q-a-marcin-ławniczak-19122017)
+[Bezpośredni link](#co-to-jest-eankieta-q-a-marcin-ławniczak-19122017)
 
 eAnkieta to system, który umożliwia ocenę zajęć dydaktycznych oraz
 prowadzących zajęcia. Po każdym semestrze dostępne do oceny są zajęcia,
@@ -296,28 +296,29 @@ a wyniki miały wartość statystyczną :)__
 
 Źródło: [student.put.poznan.pl](https://www.student.put.poznan.pl/nowosc/20100323132)
 
-##### Czy eAnkieta jest na prawdę anonimowa? (Q, A: Marcin Ławniczak, 19.12.2017)
-[Bezpośredni link](czy-ankieta-jest-na-prawdę-anonimowa-q-a-marcin-ławniczak-19122017)
+##### Czy eAnkieta jest naprawdę anonimowa? (Q, A: Marcin Ławniczak, 19.12.2017)
+[Bezpośredni link](#czy-ankieta-jest-na-prawdę-anonimowa-q-a-marcin-ławniczak-19122017)
 
 ![eAnkietaSSPP](https://github.com/marcinlawnik/polibuda-faq/raw/master/images/eAnkieta/eankieta_sspp.png)
 
 *eAnkieta - Grafika przygotowana przez SSPP w 2015 [(Źródło)](https://www.facebook.com/SamorzadStudentowPolitechnikiPoznanskiej/photos/a.401250118023.179732.80155098023/10153741033953024/)*
 
-Żeby wypełnić ankietę, trzeba się zalogować do eKonta, co budzi uzasadnione
-wątpliwości wielu studentów, że ich odpowiedzi, w tym te pisemne będą
+Żeby wypełnić ankietę, należy się zalogować przez eKonto, co budzi uzasadnione
+wątpliwości wielu studentów, że ich odpowiedzi, w tym te pisemne, będą
 powiązane z ich nazwiskiem i mogą doprowadzić do nieprzyjemnych sytuacji.
 
-Do ocen i odpowiedzi w eAnkiecie dostęp mają Dziekani danego wydziału.
+Do ocen i odpowiedzi w formie zbiorczej w eAnkiecie dostęp mają Dziekani danego wydziału.
 System skonstruowany jest w taki sposób, że po wypełnieniu ankieta jest
 zapisywana do wspólnej puli, a konto jest oznaczone jako takie, na którym
-ankieta została wypełniona. NIE MA żadnej informacji wiążącej odpowiedzi
+ankieta została wypełniona. **Nie ma** żadnej informacji wiążącej odpowiedzi
 z konkretnym kontem i nie jest możliwe uzyskanie takiej informacji.
 
 Dziekani widzą tylko średnią ocen danego przedmiotu i odpowiedzi tekstowe.
-Te dane są także później przekazywane prowadzącym poszczególnych przedmiotów.
+Te dane są także później przekazywane kierownikom katedr oraz prowadzącym
+poszczególnych przedmiotów.
 
 ##### Po co wypełniać eAnkietę? (Q, A: Marcin Ławniczak, 19.12.2017)
-[Bezpośredni link](po-co-wypełniać-eankietę-q-a-marcin-ławniczak-19122017)
+[Bezpośredni link](#po-co-wypełniać-eankietę-q-a-marcin-ławniczak-19122017)
 
 Zabiera czas i jest nudna, więc po co?
 
@@ -343,7 +344,7 @@ i nie są tylko świstkiem papieru, ale mają także wartość pieniężną.
 
 __Wolne dni__
 
-Jako Samorząd co roku mamy zakład z Rektorem o procentową ilość wypełnionych
+Jako Samorząd co roku mamy "zakład" z Rektorem o procentową ilość wypełnionych
 ankiet. Powyżej pewnego procenta studenci dostają wolny dzień
 (*tzw. "godziny rektorskie"*). W roku akademickim 2017/2018 będą/były to dni
 30.04.2018 i 04.05.2018, co skutkowało 9-dniową majówką.
