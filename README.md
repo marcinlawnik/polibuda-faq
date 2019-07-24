@@ -5,7 +5,7 @@ Politechniki Poznańskiej.
 
 #### WAŻNE
 ```
-To jest polibuda-faq w wersji 1.1, data wydania 19.12.2017.
+To jest polibuda-faq w wersji 1.2, data wydania 24.07.2019.
 ```
 Najnowszą wersję zawsze znajdziesz pod adresem [https://lawniczak.me/polibuda-faq/](https://lawniczak.me/polibuda-faq/).
 
@@ -104,14 +104,14 @@ Jeżeli Dziekanat wyrazi zgodę oraz jak będą miejsca w innych grupach.
 Problem zawsze jest na zajęciach laboratoryjnych z ograniczoną liczbą miejsc.
 Najprościej jednak znaleźć kogoś kto jest z tamtej grupy i woli być w Twojej.
 
-##### Jak wyglądają dopuszczalne nieobecności? (Q: Krystian Birecki, A: Marcin Ławniczak, 24.09.2017)
+##### Jak wyglądają dopuszczalne nieobecności? (Q: Krystian Birecki, A: Marcin Ławniczak, Grzegorz Otworowski, 24.07.2019)
 [Bezpośredni link](#jak-wyglądają-dopuszczalne-nieobecności-q-krystian-birecki-a-marcin-ławniczak-24092017)
 
 Jako student jesteś zobowiązany do uczęszczania na ćwiczenia, zajęcia laboratoryjne,
 projektowe, seminaria, lektoraty oraz zajęcia wychowania fizycznego. 
 Jeśli jesteś spostrzegawczy(-cza) to zauważysz, że nie wymieniłem tutaj wykładów. 
 Oficjalnie nie są one wymienione w regulaminie pośród zajęć obowiązkowych, 
-a za stopnień uczestnictwa w nich mogą wyciagane być jedynie pozytywne konsekwencje.
+a za stopień uczestnictwa w nich mogą wyciagane być jedynie pozytywne konsekwencje.
 
 Inną sytuacją jest L-4 od lekarza albo zwolnienie od Dziekana/Rektora.
 Wtedy jesteś usprawiedliwiony/a.
