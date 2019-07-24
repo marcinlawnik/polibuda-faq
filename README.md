@@ -107,9 +107,11 @@ Najprościej jednak znaleźć kogoś kto jest z tamtej grupy i woli być w Twoje
 ##### Jak wyglądają dopuszczalne nieobecności? (Q: Krystian Birecki, A: Marcin Ławniczak, 24.09.2017)
 [Bezpośredni link](#jak-wyglądają-dopuszczalne-nieobecności-q-krystian-birecki-a-marcin-ławniczak-24092017)
 
-Jako student jesteś zobowiązany do uczęszczania na wszystkie zajęcia.
-W rzeczywistości zależy to jednak od prowadzącego, niektórzy robią listy, inni
-nie.
+Jako student jesteś zobowiązany do uczęszczania na ćwiczenia, zajęcia laboratoryjne,
+projektowe, seminaria, lektoraty oraz zajęcia wychowania fizycznego. 
+Jeśli jesteś spostrzegawczy(-cza) to zauważysz, że nie wymieniłem tutaj wykładów. 
+Oficjalnie nie są one wymienione w regulaminie pośród zajęć obowiązkowych, 
+a za stopnień uczestnictwa w nich mogą wyciagane być jedynie pozytywne konsekwencje.
 
 Inną sytuacją jest L-4 od lekarza albo zwolnienie od Dziekana/Rektora.
 Wtedy jesteś usprawiedliwiony/a.
